@@ -8,7 +8,7 @@ A mobile application that allows users to discover hotels, attractions, and rest
 - Discover Screen: Allows users to search for travel destinations using Google Places Autocomplete and provides menu options to filter results by hotels, attractions, and restaurants.
 - Item Card Container: Displays detailed information about a specific item, such as a hotel, attraction, or restaurant.
 
-## Screenshots
+## Screenshots.
 
 ![Home Screen](screenshots/home-screen.png)
 ![Discover Screen](screenshots/discover-screen.png)

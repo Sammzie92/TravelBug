@@ -175,9 +175,11 @@ const ItemScreen = ({route}) => {
 
             )}
 
-            <View style={[{backgroundColor:"#06B2BE"}, tw`mt-4 px-4 py-4 rounded-lg items-center justify-center mb-12`]} >
+            
+
+            <TouchableOpacity style={[{backgroundColor:"#06B2BE"}, tw`mt-4 px-4 py-4 rounded-lg items-center justify-center mb-12`]} >
                 <Text style={[{letterSpacing: 0.05,}, tw`text-3xl font-semibold uppercase text-gray-100`]} >Book or Call Now</Text>
-            </View>
+            </TouchableOpacity>
             </View>
 
 
